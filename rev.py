@@ -1,2 +1,2 @@
-num=input("enter a value")
-reverse(num)
+num="enter"[::-1]
+print(num)
